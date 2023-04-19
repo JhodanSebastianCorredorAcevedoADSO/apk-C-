@@ -1,0 +1,23 @@
+.calabera{
+    font-size: 30px;
+}
+
+.muñeco{
+    font-size: 30px;
+}
+
+.personaje{
+    font-size: 30px;
+}
+
+.pescado{
+    font-size: 30px;
+}
+
+.titulo{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    background-color: brown;
+    border-radius: 20px;
+}
